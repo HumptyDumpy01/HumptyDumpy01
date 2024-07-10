@@ -1,13 +1,16 @@
 # Hello my dears! 👋
-⚡ I am a full-stack developer from Ukraine who adores building e-commerce full-stack applications from scratch, starting from design, front-end and backend implementation, deployment!
-## Technologies I use
-- HTML, CSS/SCSS, JS/TS
+⚡ I am a full-stack developer from Ukraine who adores building e-commerce full-stack applications from scratch, starting from design, front-end and backend implementation, finishing with the deployment!
+## My projects include:
+- HTML, CSS, SCSS, JS
+- TS
 - React
 - Next.js
 - Node.js
 - Express
 - Nest.js
 - Docker
+- and more...
+  
 <!--
 **HumptyDumpy01/HumptyDumpy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
