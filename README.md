@@ -1,4 +1,4 @@
-# Hello my dears! 👋
+# Hello! Nikolas is here! 👋
 ⚡ I am a full-stack developer from Ukraine who adores building e-commerce full-stack applications from scratch, starting from design, front-end and backend implementation, finishing with the deployment!
 ## Technologies I use in my projects:
 - HTML, CSS, SCSS, JS
