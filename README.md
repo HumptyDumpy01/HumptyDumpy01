@@ -1,6 +1,6 @@
 # Hello my dears! 👋
 ⚡ I am a full-stack developer from Ukraine who adores building e-commerce full-stack applications from scratch, starting from design, front-end and backend implementation, finishing with the deployment!
-## My projects include:
+## Technologies I use in my projects:
 - HTML, CSS, SCSS, JS
 - TS
 - React
