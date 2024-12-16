@@ -4,6 +4,7 @@
 - HTML, CSS, SCSS, JS
 - TS
 - React
+- Angular
 - Next.js
 - Node.js
 - Express
