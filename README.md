@@ -1,17 +1,17 @@
 # Hello! Nikolas is here! 👋
 ⚡ I am a full-stack developer from Ukraine who adores building e-commerce full-stack applications from scratch, starting from design, front-end and backend implementation, finishing with the deployment!
 ## Technologies I use in my projects:
-- HTML, CSS, SCSS, JS
-- TS
+- CI/CD
+- HTML, CSS, SCSS, JS, TS
+- TailwindCSS
 - React
-- Angular
 - Next.js
-- Node.js
-- Express
+- Angular
 - Nest.js
+- Golang
 - Docker
-- and more...
-  
+- Figma
+
 <!--
 **HumptyDumpy01/HumptyDumpy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
