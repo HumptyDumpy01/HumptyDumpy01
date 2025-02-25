@@ -1,6 +1,6 @@
 # 🌟 Hey there! I'm Nikolas 👋  
 
-🚀 **Full-Stack Developer | 4+ Years Experience | Freelancer**  
+🚀 **Full-Stack Developer | 4+ Years in Software Development | Freelancer**  
 I love building **scalable, production-ready applications** from scratch—**from design to deployment**!  
 With a strong focus on **performance, UX/UI, and modern web technologies**, I turn ideas into reality.  
 
