@@ -1,16 +1,35 @@
-With over 4 years of software development and 1+ year of freelance commercial experience, I am a full-stack developer passionate about building robust applications from the ground up. From design to deployment, I leverage technologies like React, Next.js, NestJS, Node, Golang, UX/UI to create scalable, production-ready solutions!
+# 🌟 Hey there! I'm Nikolas 👋  
 
+🚀 **Full-Stack Developer | 4+ Years Experience | Freelancer**  
+I love building **scalable, production-ready applications** from scratch—**from design to deployment**!  
+With a strong focus on **performance, UX/UI, and modern web technologies**, I turn ideas into reality.  
 
-My Stack:
-VCS: Git/Github;
-Design: UX/UI, Figma, Motion Design in AE;
-Frontend: Typescript, React, NextJS;
-Backend: NestJS, Nodejs;
-Databases: MongoDB, Sqlite3;
+---
 
-Hobbies: playing piano, reading classical literature, playing guitar. 
+## 🛠 Tech Stack  
 
-Contact me:
-Email - tuznikolas@gmail.com 
-Telegram - @HumptyDumpty_01
-GitHub - https://github.com/HumptyDumpy01
+**🌿 Version Control:** Git, GitHub  
+**🎨 Design & Motion:** UX/UI, Figma, Motion Design (AE)  
+**⚛️ Frontend:** TypeScript, React, Next.js  
+**🛠 Backend:** NestJS, Node.js  
+**🗄 Databases:** MongoDB, SQLite3  
+
+---
+
+## 🎸 About Me  
+
+🎹 Love playing the **piano & guitar**  
+📖 Avid reader of **classical literature**  
+💡 Passionate about **tech, design, and innovation**  
+
+---
+
+## 📬 Get in Touch  
+
+📧 **Email:** [tuznikolas@gmail.com](mailto:tuznikolas@gmail.com)  
+💬 **Telegram:** [@HumptyDumpty_01](https://t.me/HumptyDumpty_01)  
+🐙 **GitHub:** [HumptyDumpy01](https://github.com/HumptyDumpy01)  
+
+---
+
+✨ _"Code is poetry, and every project tells a story."_ ✨  
